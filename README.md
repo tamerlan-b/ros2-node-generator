@@ -1,6 +1,6 @@
 # ROS2 Node Generator
 
-Tool for quickly creating ROS2 Jazzy packages with nodes
+Tool for quickly creating ROS2 Foxy packages with nodes
 
 ### TODO
 - [ ] Update README
